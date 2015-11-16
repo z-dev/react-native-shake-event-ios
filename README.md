@@ -62,4 +62,3 @@ Stop to listening the shake event, and is recommended to prevent memory leak.
 ## License
 
 MIT © [Chessboard Radio Lab](https://chessboardradio.com)
->>>>>>> beta
