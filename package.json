@@ -26,6 +26,5 @@
   "homepage": "https://github.com/jadsonlourenco/react-native-shake-event-ios",
   "dependencies": {
     "invariant": "^2.1.2"
-  },
-  "nativePackage": true
+  }
 }
