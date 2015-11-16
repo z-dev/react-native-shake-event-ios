@@ -34,7 +34,7 @@ RCT_EXPORT_MODULE();
 - (instancetype)init
 {
     if ((self = [super init])) {
-        RCTLogInfo(@"RNShakeEvent: init in debug mode");
+        RCTLogInfo(@"RNShakeEvent: started in debug mode");
         [[NSNotificationCenter defaultCenter] addObserver:self
                                                  selector:@selector(motionEnded:)
                                                      name:RCTShowDevMenuNotification
@@ -67,7 +67,6 @@ RCT_EXPORT_MODULE();
 - (instancetype)init
 {
     if ((self = [super init])) {
-        RCTLogInfo(@"Shake event init");
         [[NSNotificationCenter defaultCenter] addObserver:self
                                                  selector:@selector(motionEnded:)
                                                      name:RCTShowDevMenuNotification
@@ -78,13 +77,11 @@ RCT_EXPORT_MODULE();
 
 - (void)dealloc
 {
-    RCTLogInfo(@"Shake event stop");
     [[NSNotificationCenter defaultCenter] removeObserver:self];
 }
 
 - (void)motionEnded:(NSNotification *)notification
 {
-    RCTLogInfo(@"Shake event dispatched");
     [_bridge.eventDispatcher sendDeviceEventWithName:@"ShakeEvent"
                                                 body:nil];
 }
