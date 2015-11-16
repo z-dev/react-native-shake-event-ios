@@ -1,6 +1,6 @@
 {
   "name": "react-native-shake-event-ios",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add shake event to your React Native app (IOS only)",
   "main": "index.ios.js",
   "repository": {
