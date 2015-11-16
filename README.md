@@ -8,8 +8,9 @@ Add the shake event on your React Native app, giving to users improved usability
 
 ## Demo
 
-<a href="https://www.youtube.com/watch?v=mKjkWHto6NQ&feature=youtu.be" target="_blank"><img src="https://storage.googleapis.com/cdn.chessboardradio.com/lab/projects/01-NShakeEventIOS/demo.gif" height="270" width="480" alt="react-native-shake-event-ios"></a>  
-*Run this example: [Example App](#).*
+<a href="https://www.youtube.com/watch?v=mKjkWHto6NQ&feature=youtu.be" target="_blank"><img src="https://storage.googleapis.com/cdn.chessboardradio.com/lab/projects/01-NShakeEventIOS/demo.gif" width="480" height="270" alt="react-native-shake-event-ios"></a>  
+* [Video Demo](https://www.youtube.com/watch?v=mKjkWHto6NQ&feature=youtu.be)  
+* [Example App](https://github.com/jadsonlourenco/react-native-shake-event-ios-example)
 
 
 ## Install
