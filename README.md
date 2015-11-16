@@ -1,4 +1,4 @@
-# ![react-native-shake-event-ios](media/promo.png)
+# ![react-native-shake-event-ios](https://storage.googleapis.com/cdn.chessboardradio.com/lab/projects/01-NShakeEventIOS/promo.png)
 
 [![npm package](https://img.shields.io/npm/v/react-native.svg?style=flat-square)](https://www.npmjs.org/package/gatsby)
 [![react-native channel on discord](https://img.shields.io/badge/discord-react--native%40reactiflux-738bd7.svg?style=flat-square)](https://discord.gg/0ZcbPKXt5bXsb3os)
