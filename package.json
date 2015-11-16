@@ -1,0 +1,30 @@
+{
+  "name": "react-native-shake-event-ios",
+  "version": "1.0.0",
+  "description": "Get shake event of iOS on your React Native app",
+  "main": "index.ios.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jadsonlourenco/react-native-shake-event-ios.git"
+  },
+  "keywords": [
+    "ios",
+    "native",
+    "react",
+    "react-component",
+    "react-native",
+    "react-native-component",
+    "shake",
+    "shake-event",
+    "shake-event-ios"
+  ],
+  "author": "Jadson Lourenco <jadsonlourenco@gmail.com> (https://lab.chessboardradio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadsonlourenco/react-native-shake-event-ios/issues"
+  },
+  "homepage": "https://github.com/jadsonlourenco/react-native-shake-event-ios",
+  "dependencies": {
+    "invariant": "^2.1.2"
+  }
+}
