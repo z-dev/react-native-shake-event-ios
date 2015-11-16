@@ -21,7 +21,7 @@ $ npm install react-native-shake-event-ios--save
 #### Add to Xcode (required)
 
 1. Add the `RNShakeEvent.xcodeproj` file to your Xcode project [Demo](https://facebook.github.io/react-native/img/AddToLibraries.png);
-2. Add the `Products/libRNShakeEvent.a` file to **Build Settings**  [Demo](https://facebook.github.io/react-native/img/AddToBuildPhases.png).
+2. Add the `Products/libRNShakeEvent.a` file to **Build Phases**  [Demo](https://facebook.github.io/react-native/img/AddToBuildPhases.png).
 
 This step is described here: [Linking Libraries](https://facebook.github.io/react-native/docs/linking-libraries-ios.html#content).
 
