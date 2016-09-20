@@ -19,7 +19,13 @@ Add the shake event on your React Native app, giving to users improved usability
 $ npm install react-native-shake-event --save
 ```
 
-#### Add to Xcode (required)
+#### iOS
+
+##### Automatic
+
+`react-native link react-native-shake-event`
+
+##### Manual
 
 1. Add the `RNShakeEvent.xcodeproj` file to your Xcode project [Demo](https://facebook.github.io/react-native/img/AddToLibraries.png);
 2. Add the `Products/libRNShakeEvent.a` file to **Build Phases**  [Demo](https://facebook.github.io/react-native/img/AddToBuildPhases.png).
