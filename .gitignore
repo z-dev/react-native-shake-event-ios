@@ -17,6 +17,10 @@ DerivedData
 *.ipa
 *.xcuserstate
 
+#iOS
+#
+.DS_Store
+
 # npm
 #
 node_modules/
